@@ -1,7 +1,8 @@
 # rai-project
 Exemplo de descrição Rai-project
-![Gatinho fofo](https://media1.tenor.com/m/29Ok5pc0ivAAAAAd/gatinho-gato.gif)
+
 <!DOCTYPE html>
+![cat-smiling-cat](https://github.com/user-attachments/assets/11c17674-5d93-4dec-874f-d9c0567530c9)
 <html>
 <head>
     <meta charset="UTF-8">
